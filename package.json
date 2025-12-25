@@ -1,7 +1,7 @@
 {
   "name": "@coswars/mbb-code",
-  "version": "1.0.1",
-  "description": "命令行：",
+  "version": "1.0.0",
+  "description": "命令行：Snippets",
   "main": "./bin/index.js",
   "type": "module",
   "scripts": {
